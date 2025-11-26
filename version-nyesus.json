@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "latestVersion": "1.0.5",
+  "latestVersion": "1.0.6",
   "minSupportedVersion": "1.0.5",
-  "message": "Flere områder og kart!"
+  "message": "Varsel når det er kommet en ny versjon!"
 }
