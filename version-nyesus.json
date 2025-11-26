@@ -1,6 +1,6 @@
 {
   "enabled": true,
   "latestVersion": "1.0.6",
-  "minSupportedVersion": "1.0.4",
-  "message": "Varsel når det er kommet en ny versjon!"
+  "minSupportedVersion": "1.0.6",
+  "message": "Varsel om ny versjon!"
 }
