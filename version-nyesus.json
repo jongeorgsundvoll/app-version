@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "latestVersion": "1.0.5",
   "minSupportedVersion": "1.0.3",
   "message": "Oppdaterte kart og markører"
