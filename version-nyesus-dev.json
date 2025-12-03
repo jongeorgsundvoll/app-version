@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "latestVersion": "55.0.6",
-  "minSupportedVersion": "55.0.3",
+  "latestVersion": "54.0.6",
+  "minSupportedVersion": "54.0.3",
   "message": "DEV: Fobedret funksjonalitet, oppdaterte kart og markører"
 }
